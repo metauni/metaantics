@@ -6,7 +6,7 @@ Antics is a card game within metauni, which serves as a means of creative expres
 * Booster packs are acquired by attending seminars or lectures, and spawn randomnly in pockets (the more time spent in a pocket, the more likely it is to find loot).
 * Rare and powerful cards are acquired through completing puzzles, challenges or solving math problems set by lecturers.
 
-Examples of cards:
+Antics is a game that can be played against other players competitively. Some cards also have effects on the world, including:
 
 - Weather control
 - Temporarily increased running speed
